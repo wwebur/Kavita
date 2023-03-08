@@ -7,7 +7,7 @@ This project is a virtual store developed with Next.js and TypeScript. In the st
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Michael-Liendo/kavita.git
+git clone https://github.com/williamsmith0509/Kavita.git
 ```
 
 2. Install the dependencies:
